@@ -2,6 +2,8 @@
 
 An example app (Random Quote) for JavaScript + React
 
+[Link](https://constantjin.github.io/bspl-summer-seminar/)
+
 ---
 
 # React + TypeScript + Vite
